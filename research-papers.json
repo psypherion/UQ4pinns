@@ -99,5 +99,10 @@
     "research_paper_id": 20,
     "name": "Computing Full Conformal Prediction Set with Approximate Homotopy",
     "link": "https://proceedings.neurips.cc/paper_files/paper/2019/file/9e3cfc48eccf81a0d57663e129aef3cb-Paper.pdf"
+  },
+  {
+    "research_paper_id" : 21,
+    "name" : "Predictive inference with the jackknife+",
+    "link" : "https://arxiv.org/pdf/1905.02928"
   }
 ]
