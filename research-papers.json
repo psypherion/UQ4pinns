@@ -1,0 +1,103 @@
+
+[
+  {
+    "research_paper_id": 1,
+    "name": "Conformal Prediction via Regression-as-Classification",
+    "link": "https://openreview.net/pdf?id=rulxyXjf46"
+  },
+  {
+    "research_paper_id": 2,
+    "name": "Conformalized Survival Distributions: A Generic Post-Process to Increase Calibration",
+    "link": "https://proceedings.mlr.press/v235/qi24a.html"
+  },
+  {
+    "research_paper_id": 3,
+    "name": "Online Conformal Prediction with Decaying Step Sizes",
+    "link": "https://icml.cc/virtual/2024/poster/35102"
+  },
+  {
+    "research_paper_id": 4,
+    "name": "Conformal Prediction with Learned Features",
+    "link": "https://icml.cc/virtual/2024/poster/33774"
+  },
+  {
+    "research_paper_id": 5,
+    "name": "INCOMPLETE URL — paper title unavailable",
+    "link": "https://icml.cc/virtual/202"
+  },
+  {
+    "research_paper_id": 6,
+    "name": "Conformal Prediction for Multi-Dimensional Time Series by Ellipsoidal Sets",
+    "link": "https://icml.cc/virtual/2024/poster/32830"
+  },
+  {
+    "research_paper_id": 7,
+    "name": "Robust Uncertainty Quantification Using Conformalised Monte Carlo Prediction",
+    "link": "https://ojs.aaai.org/index.php/AAAI/article/view/30084"
+  },
+  {
+    "research_paper_id": 8,
+    "name": "Predictive Inference with Feature Conformal Prediction",
+    "link": "https://openreview.net/pdf?id=0uRm1YmFTu"
+  },
+  {
+    "research_paper_id": 9,
+    "name": "Batch Multivalid Conformal Prediction",
+    "link": "https://openreview.net/pdf?id=Dk7QQp8jHEo"
+  },
+  {
+    "research_paper_id": 10,
+    "name": "Improved Online Conformal Prediction via Strongly Adaptive Online Learning",
+    "link": "https://proceedings.mlr.press/v202/bhatnagar23a.html"
+  },
+  {
+    "research_paper_id": 11,
+    "name": "Conformal Prediction with Missing Values",
+    "link": "https://proceedings.mlr.press/v202/zaffran23a.html"
+  },
+  {
+    "research_paper_id": 12,
+    "name": "Optimizing Hyperparameters with Conformal Quantile Regression",
+    "link": "https://proceedings.mlr.press/v202/salinas23a.html"
+  },
+  {
+    "research_paper_id": 13,
+    "name": "Conformal Prediction for Time Series with Modern Hopfield Networks",
+    "link": "https://proceedings.neurips.cc/paper_files/paper/2023/file/aef75887979ae1287b5deb54a1e3cbda-Paper-Conference.pdf"
+  },
+  {
+    "research_paper_id": 14,
+    "name": "Conformal Prediction for Uncertainty-Aware Planning with Diffusion Dynamics Model",
+    "link": "https://neurips.cc/virtual/2023/poster/71449"
+  },
+  {
+    "research_paper_id": 15,
+    "name": "Uncertainty Quantification in Deep Learning",
+    "link": "https://dl.acm.org/doi/pdf/10.1145/3580305.3599577"
+  },
+  {
+    "research_paper_id": 16,
+    "name": "Conformal Bayesian Computation",
+    "link": "https://proceedings.neurips.cc/paper_files/paper/2021/file/97785e0500ad16c18574c64189ccf4b4-Paper.pdf"
+  },
+  {
+    "research_paper_id": 17,
+    "name": "Adaptive Conformal Inference Under Distribution Shift",
+    "link": "https://proceedings.neurips.cc/paper_files/paper/2021/file/0d441de75945e5acbc865406fc9a2559-Paper.pdf"
+  },
+  {
+    "research_paper_id": 18,
+    "name": "Conformal Prediction using Conditional Histograms",
+    "link": "https://proceedings.neurips.cc/paper_files/paper/2021/file/31b3b31a1c2f8a370206f111127c0dbd-Paper.pdf"
+  },
+  {
+    "research_paper_id": 19,
+    "name": "Conformal Symplectic and Relativistic Optimization",
+    "link": "https://proceedings.neurips.cc/paper_files/paper/2020/file/c4b108f53550f1d5967305a9a8140ddd-Paper.pdf"
+  },
+  {
+    "research_paper_id": 20,
+    "name": "Computing Full Conformal Prediction Set with Approximate Homotopy",
+    "link": "https://proceedings.neurips.cc/paper_files/paper/2019/file/9e3cfc48eccf81a0d57663e129aef3cb-Paper.pdf"
+  }
+]
